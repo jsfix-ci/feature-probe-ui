@@ -30,7 +30,7 @@
     "localforage": "^1.10.0",
     "lodash": "^4.17.21",
     "moment": "^2.29.4",
-    "node-sass": "^7.0.1",
+    "node-sass": "^8.0.0",
     "qs": "^6.10.3",
     "react": "^17.0.0",
     "react-beautiful-dnd": "^13.1.0",
